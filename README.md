@@ -2,7 +2,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jiaoyue0325%40jiaoyue.gay-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiaoyue0325@jiaoyue.gay)
-[![邀請機器人](https://discord.com/oauth2/authorize?client_id=1540739835801632938&integration_type=1&scope=applications.commands)](https://discord.com/oauth2/authorize?client_id=1540739835801632938&integration_type=1&scope=applications.commands)
+[![Discord](https://discord.com/oauth2/authorize?client_id=1540739835801632938&integration_type=1&scope=applications.commands)](https://discord.com/oauth2/authorize?client_id=1540739835801632938&integration_type=1&scope=applications.commands)
 
 一款強大且靈活的 Discord AI 翻譯機器人，支援本地 **Ollama**（如 Qwen 2.5）與雲端 **Google Gemini** 雙引擎切換，提供流暢的訊息即時翻譯與繁簡字體轉換。
 
